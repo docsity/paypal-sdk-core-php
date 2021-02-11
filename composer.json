@@ -1,6 +1,6 @@
 {
-    "name": "protonlabs/paypal-sdk-core-php",
-    "description": "PayPal Core SDK for PHP",
+    "name": "docsity/paypal-sdk-core-php",
+    "description": "Fork of PayPal Core SDK for PHP",
     "keywords": ["paypal", "php", "sdk"],
     "type": "library",
     "homepage": "https://github.com/paypal/sdk-core-php",
